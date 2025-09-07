@@ -1,9 +1,0 @@
-If you have jupyter notebook so install 
-R by using this link: https://cran.r-project.org/
-and go to the Rstudio and then install this package by using this command:
-install.packages('IRkernel')
-IRkernel::installspec(user = FALSE)
-
-
-
-and then create jupyter notebook so you see R install in jupyter notebook.
